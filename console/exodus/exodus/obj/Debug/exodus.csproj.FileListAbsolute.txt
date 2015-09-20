@@ -1,0 +1,6 @@
+C:\zaq\github\prg\console\exodus\exodus\bin\Debug\exodus.exe.config
+C:\zaq\github\prg\console\exodus\exodus\bin\Debug\exodus.exe
+C:\zaq\github\prg\console\exodus\exodus\bin\Debug\exodus.pdb
+C:\zaq\github\prg\console\exodus\exodus\obj\Debug\exodus.csprojResolveAssemblyReference.cache
+C:\zaq\github\prg\console\exodus\exodus\obj\Debug\exodus.exe
+C:\zaq\github\prg\console\exodus\exodus\obj\Debug\exodus.pdb
